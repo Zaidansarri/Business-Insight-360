@@ -10,7 +10,25 @@
 **AtliQ Hardware**, a leading global supplier of computer accessories, faced challenges in maintaining profitability despite years of success. The key issue was their reliance on static Excel reports that lacked real-time insights. To address this, a **data analytics team** was brought in to develop a dynamic **Power BI dashboard**, providing detailed insights for the **Finance, Sales, Marketing**, and **Supply Chain** teams.
 
 
-## **Key Features of the Dashboard**
+## **Business Related Terms**
+
+- Gross price
+- Pre-invoice deductions
+- Post-Invoice deductions
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGC - cost of goods sold
+- YTD - Year to Date
+- YTG - Year to Go
+- Direct
+- Retailer
+- Distributors
+- Consumer
+
+
+## **Key Features Of The Dashboard**
 
 - **Finance View**: Tracks profit & loss, COGS, net sales, net profit %, and gross margin.
 - **Sales View**: Analyzes gross margin trends, product, and customer performance.
