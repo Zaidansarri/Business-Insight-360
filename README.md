@@ -2,7 +2,7 @@
 
 **Business Insights 360** is a powerful and dynamic dashboard built using **Microsoft Power BI**, designed to provide **AtliQ Hardware** with valuable insights into various departments such as **Finance, Sales, Marketing**, and **Supply Chain** across the global market. The dashboard integrates data from two main sources: **Excel/CSV files** and a **MySQL database**.
 
-[**Live Dashboard**](http://surl.li/yzbmzr)
+**Business Insight 360**: [**Live Dashboard**](http://surl.li/yzbmzr)
 
 ## **Project Background**
 
@@ -49,3 +49,16 @@
 - **Advanced Data Modeling**: Created a robust data model in Power BI for interactive visualizations.
 - **Optimized Performance**: Improved dashboard speed by 5% using **DAX Studio**.
 - **Data-Driven Decisions**: Enabled **AtliQ Hardware** to make informed decisions base
+
+## **Tools Used**
+
+- SQL
+- PowerBi Desktop
+- Excel
+- DAX language
+- DAX studio (for optimizing the report)
+- Project charter file
+
+## **Project Outcome**
+
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
