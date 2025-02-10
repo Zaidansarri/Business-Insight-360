@@ -6,7 +6,7 @@ Business Insights 360 is a powerful and dynamic dashboard built using Microsoft 
 
 ## Acknowledgments
 
-This project was created by the data set provided and with the guidance from [**CODEBASICS CHANNEL**](http://surl.li/nqzscw) Check out their channel for more learning and insights.
+This project was created by the data set provided and with guidance from [**CODEBASICS CHANNEL**](http://surl.li/nqzscw) Check out their channel for more learning and insights.
 
 
 ## **Project Background**
